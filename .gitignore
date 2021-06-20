@@ -1,0 +1,7 @@
+# SPDX-FileCopyrightText: © 2021 Alias Developers
+# SPDX-License-Identifier: MIT
+
+# CLion/IntelliJ files
+.idea/
+*.iml
+cmake-*/
